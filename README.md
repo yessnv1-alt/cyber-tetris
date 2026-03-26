@@ -9,7 +9,7 @@ Un motor de juego Tetris 2D moderno y vibrante, desarrollado en un solo archivo 
 ---
 
 ## 🎮 DEMO EN VIVO
-🚀 **[Ver el juego en GitHub Pages](https://YessiPaolaNunez.github.io/Cyberpunk-Tetris/)** ⚡ **[Ver el juego en Vercel](https://cyberpunk-tetris-yessi.vercel.app/)**
+🚀 **[Ver el juego en GitHub Pages](https://YessiPaolaNunez.github.io/Cyberpunk-Tetris/)** ⚡ **[Ver el juego en Vercel](https://cyber-tetris-sigma.vercel.app/)**
 
 ---
 
